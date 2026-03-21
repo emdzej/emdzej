@@ -14,6 +14,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**keycloak-api-keys**](https://github.com/emdzej/keycloak-api-keys) | API key management for Keycloak | OAuth2 is great until your IoT toaster needs to authenticate |
 | [**wdsx**](https://github.com/emdzej/wdsx) | BMW Wiring Diagram System — web port | The original Java applet stopped working. My car didn't stop needing repairs. |
 | [**etkx**](https://github.com/emdzej/etkx) | BMW Electronic Parts Catalogue — reverse engineered | Because PDF parts lists are for quitters |
+| [**bimmerz.app**](https://github.com/emdzej/bimmerz.app) | BMW tooling hub | All my BMW obsession in one place |
 | [**npvm**](https://github.com/emdzej/npvm) | Monorepo versioning CLI | Semantic versioning across 47 packages shouldn't require a PhD |
 
 ## Fun Facts
