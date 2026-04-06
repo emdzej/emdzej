@@ -17,7 +17,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**bimmerz.app**](https://github.com/emdzej/bimmerz.app) | BMW tooling hub | Because I like owning stuff end to end |
 | [**ediabasx**](https://github.com/emdzej/ediabasx) | BMW diagnostic interface — TypeScript port 🚧 | The VM runs. Everything else is "coming soon." |
 | [**inpax**](https://github.com/emdzej/inpax) | INPA scripting — cross-platform 🚧 | Not everyone likes Windows. Even in the garage. |
-| [**tisx**](https://github.com/emdzej/tisx) | BMW TIS reimplementation 🚧 | Workshop manuals without dusting off Windows XP |
+| [**tisx**](https://github.com/emdzej/tisx) | BMW TIS reimplementation | Workshop manuals without dusting off Windows XP |
 | [**itw-decoder**](https://github.com/emdzej/itw-decoder) | BMW ITW image format decoder | Because things should be accessible and live forever |
 | [**npvm**](https://github.com/emdzej/npvm) | Monorepo versioning CLI | Semantic versioning across 47 packages shouldn't require a PhD |
 
