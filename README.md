@@ -10,6 +10,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 
 | Project | What it does | Why it exists |
 |---------|--------------|---------------|
+| [**microagent**](https://github.com/emdzej/microagent) | Minimal AI agent with tools + MCP in ~1500 LOC | Reference implementation for "how do agents actually work?" |
 | [**ragclaw**](https://github.com/emdzej/ragclaw) | Local-first RAG engine with SQLite vector search | Because sometimes you want AI to know things without sending your secrets to the cloud |
 | [**keycloak-api-keys**](https://github.com/emdzej/keycloak-api-keys) | API key management for Keycloak | OAuth2 is great until your IoT toaster needs to authenticate |
 | [**wdsx**](https://github.com/emdzej/wdsx) | BMW Wiring Diagram System — web port | The original Java applet stopped working. My car didn't stop needing repairs. |
