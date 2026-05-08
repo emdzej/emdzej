@@ -20,8 +20,8 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**inpax**](https://github.com/emdzej/inpax) | INPA scripting — cross-platform 🚧 | Not everyone likes Windows. Even in the garage. |
 | [**tisx**](https://github.com/emdzej/tisx) | BMW TIS reimplementation | Workshop manuals without dusting off Windows XP |
 | [**mitsudocs**](https://github.com/emdzej/mitsudocs) | Mitsubishi service manual viewer + AI-powered indexing | Local vision models doing OCR on scanned wiring diagrams |
-| [**mut**](https://github.com/emdzej/mut) | Mitsubishi MUT-II diagnostics — CLI + WebUSB dashboard | Real-time ECU data without proprietary tools |
-| [**j2534**](https://github.com/emdzej/j2534) | TypeScript SAE J2534 PassThru API (Node + WebUSB) | Cross-platform replacement for Windows-only DLLs |
+| [**mut**](https://github.com/emdzej/mut) | Mitsubishi MUT-II diagnostics — CLI + WebUSB dashboard 🚧 | Real-time ECU data without proprietary tools |
+| [**j2534**](https://github.com/emdzej/j2534) | TypeScript SAE J2534 PassThru API (Node + WebUSB) 🚧 | Cross-platform replacement for Windows-only DLLs |
 | [**config**](https://github.com/emdzej/config) | Runtime config service for SPAs (build once, run everywhere) | Env/secret‑driven config without rebuilds |
 | [**itw-decoder**](https://github.com/emdzej/itw-decoder) | BMW ITW image format decoder | Because things should be accessible and live forever |
 | [**npvm**](https://github.com/emdzej/npvm) | Monorepo versioning CLI | Semantic versioning across 47 packages shouldn't require a PhD |
