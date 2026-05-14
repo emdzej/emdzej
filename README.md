@@ -45,6 +45,13 @@ These projects exist to preserve access to technical knowledge and ensure that o
 - 🌐 [emdzej.pl](https://emdzej.pl)
 - 📧 michal@jaskolski.pro
 
+## Support
+
+If you find my work useful, consider [buying me a coffee](https://buymeacoffee.com/emdzej) ☕ or [sponsoring on GitHub](https://github.com/sponsors/emdzej) or if it's your thing: via PayPal
+
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/PL/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=TDBR3A97PLQRQ&no_recurring=0&item_name=%28emdzej%29&currency_code=PLN)
+
+
 ---
 
 *"It works on my machine"* — certified since 2003
