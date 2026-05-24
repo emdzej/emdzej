@@ -23,6 +23,8 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**j2534**](https://github.com/emdzej/j2534) | TypeScript SAE J2534 PassThru API (Node + WebUSB) 🚧 | Cross-platform replacement for Windows-only DLLs |
 | [**config**](https://github.com/emdzej/config) | Runtime config service for SPAs (build once, run everywhere) | Env/secret‑driven config without rebuilds |
 | [**itw-decoder**](https://github.com/emdzej/itw-decoder) | BMW ITW image format decoder | Because things should be accessible and live forever |
+| [**ncsx**](https://github.com/emdzej/ncsx) | BMW NCS Expert in the browser | Factory coding tool ported to TypeScript — no installer, no Wine needed |
+| [**xbusx**](https://github.com/emdzej/xbusx) | BMW I-Bus / K-Bus protocol + tools | Reference implementation for in-vehicle comms (E31–E87) |
 | [**npvm**](https://github.com/emdzej/npvm) | Monorepo versioning CLI | Semantic versioning across 47 packages shouldn't require a PhD |
 
 ## Fun Facts
