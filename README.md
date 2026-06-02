@@ -25,6 +25,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**itw-decoder**](https://github.com/emdzej/itw-decoder) | BMW ITW image format decoder | Because things should be accessible and live forever |
 | [**ncsx**](https://github.com/emdzej/ncsx) | BMW NCS Expert in the browser | Factory coding tool ported to TypeScript — no installer, no Wine needed |
 | [**nfsx**](https://github.com/emdzej/nfsx) | NFS / WinKFP + JMG Flasher + MS4x Flasher in one tool | Flash what you need on any platform you want |
+| [**tunex**](https://github.com/emdzej/tunex) | ECU firmware editor with TunerPro's XDF support in your browser | For a comlete flashing experience |
 | [**xbusx**](https://github.com/emdzej/xbusx) | BMW I-Bus / K-Bus protocol + tools | Reference implementation for in-vehicle comms (E31–E87) |
 | [**npvm**](https://github.com/emdzej/npvm) | Monorepo versioning CLI | Semantic versioning across 47 packages shouldn't require a PhD |
 
