@@ -22,6 +22,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**mitsudocs**](https://github.com/emdzej/mitsudocs) | Mitsubishi service manual viewer + AI-powered indexing | Local vision models doing OCR on scanned wiring diagrams |
 | [**j2534**](https://github.com/emdzej/j2534) | TypeScript SAE J2534 PassThru API (Node + WebUSB) 🚧 | Cross-platform replacement for Windows-only DLLs |
 | [**config**](https://github.com/emdzej/config) | Runtime config service for SPAs (build once, run everywhere) | Env/secret‑driven config without rebuilds |
+| [**swsrs**](https://github.com/emdzej/swsrs) | Self-hostable WebSocket relay for peers behind NAT/firewalls + OIDC-protected admin plane | Because "just open a port" stops being funny behind CGNAT |
 | [**itw-decoder**](https://github.com/emdzej/itw-decoder) | BMW ITW image format decoder | Because things should be accessible and live forever |
 | [**ncsx**](https://github.com/emdzej/ncsx) | BMW NCS Expert in the browser | Factory coding tool ported to TypeScript — no installer, no Wine needed |
 | [**nfsx**](https://github.com/emdzej/nfsx) | NFS / WinKFP + JMG Flasher + MS4x Flasher in one tool | Flash what you need on any platform you want |
