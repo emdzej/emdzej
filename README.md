@@ -8,28 +8,44 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 
 ## What I'm Currently Breaking
 
+### Complete Solutions
+
+| Project | What it does | Why it exists |
+|---------|--------------|---------------|
+| [**ediabasx**](https://github.com/emdzej/ediabasx) | BMW diagnostic interface — TypeScript port 🚧 | The VM runs. Everything else is "coming soon." |
+| [**inpax**](https://github.com/emdzej/inpax) | INPA scripting — cross-platform 🚧 | Not everyone likes Windows. Even in the garage. |
+| [**ncsx**](https://github.com/emdzej/ncsx) | BMW NCS Expert in the browser | Factory coding tool ported to TypeScript — no installer, no Wine needed |
+| [**nfsx**](https://github.com/emdzej/nfsx) | NFS / WinKFP + JMG Flasher + MS4x Flasher in one tool | Flash what you need on any platform you want |
+| [**wdsx**](https://github.com/emdzej/wdsx) | BMW Wiring Diagram System — web port | The original Java applet stopped working. My car didn't stop needing repairs. |
+| [**etkx**](https://github.com/emdzej/etkx) | BMW Electronic Parts Catalogue — reverse engineered | Because PDF parts lists are for quitters |
+| [**tunex**](https://github.com/emdzej/tunex) | ECU firmware editor with TunerPro's XDF support in your browser | For a comlete flashing experience |
+| [**xbusx**](https://github.com/emdzej/xbusx) | BMW I-Bus / K-Bus protocol + tools | Reference implementation for in-vehicle comms (E31–E87) |
+| [**tisx**](https://github.com/emdzej/tisx) | BMW TIS reimplementation | Workshop manuals without dusting off Windows XP |
+| [**mitsudocs**](https://github.com/emdzej/mitsudocs) | Mitsubishi service manual viewer + AI-powered indexing | Local vision models doing OCR on scanned wiring diagrams |
+
+### Tools
+
+| Project | What it does | Why it exists |
+|---------|--------------|---------------|
+| [**swsrs**](https://github.com/emdzej/swsrs) | Self-hostable WebSocket relay for peers behind NAT/firewalls + OIDC-protected admin plane | Because "just open a port" stops being funny behind CGNAT |
+| [**npvm**](https://github.com/emdzej/npvm) | Monorepo versioning CLI | Semantic versioning across 47 packages shouldn't require a PhD |
+| [**stm**](https://github.com/emdzej/stm) | Serial Terminal & Monitor on the web | My way, anywhere |
+
+### AI & LM
+
 | Project | What it does | Why it exists |
 |---------|--------------|---------------|
 | [**microagent**](https://github.com/emdzej/microagent) | Minimal AI agent with tools + MCP in ~1500 LOC | Reference implementation for "how do agents actually work?" |
 | [**ragclaw**](https://github.com/emdzej/ragclaw) | Local-first RAG engine with SQLite vector search | Because sometimes you want AI to know things without sending your secrets to the cloud |
+
+### Libraries, Extensions & Plugins
+
+| Project | What it does | Why it exists |
+|---------|--------------|---------------|
 | [**keycloak-api-keys**](https://github.com/emdzej/keycloak-api-keys) | API key management for Keycloak | OAuth2 is great until your IoT toaster needs to authenticate |
-| [**wdsx**](https://github.com/emdzej/wdsx) | BMW Wiring Diagram System — web port | The original Java applet stopped working. My car didn't stop needing repairs. |
-| [**etkx**](https://github.com/emdzej/etkx) | BMW Electronic Parts Catalogue — reverse engineered | Because PDF parts lists are for quitters |
-| [**bimmerz.app**](https://github.com/emdzej/bimmerz.app) | BMW tooling hub | Because I like owning stuff end to end |
-| [**ediabasx**](https://github.com/emdzej/ediabasx) | BMW diagnostic interface — TypeScript port 🚧 | The VM runs. Everything else is "coming soon." |
-| [**inpax**](https://github.com/emdzej/inpax) | INPA scripting — cross-platform 🚧 | Not everyone likes Windows. Even in the garage. |
-| [**tisx**](https://github.com/emdzej/tisx) | BMW TIS reimplementation | Workshop manuals without dusting off Windows XP |
-| [**mitsudocs**](https://github.com/emdzej/mitsudocs) | Mitsubishi service manual viewer + AI-powered indexing | Local vision models doing OCR on scanned wiring diagrams |
-| [**j2534**](https://github.com/emdzej/j2534) | TypeScript SAE J2534 PassThru API (Node + WebUSB) 🚧 | Cross-platform replacement for Windows-only DLLs |
 | [**config**](https://github.com/emdzej/config) | Runtime config service for SPAs (build once, run everywhere) | Env/secret‑driven config without rebuilds |
-| [**swsrs**](https://github.com/emdzej/swsrs) | Self-hostable WebSocket relay for peers behind NAT/firewalls + OIDC-protected admin plane | Because "just open a port" stops being funny behind CGNAT |
 | [**itw-decoder**](https://github.com/emdzej/itw-decoder) | BMW ITW image format decoder | Because things should be accessible and live forever |
-| [**ncsx**](https://github.com/emdzej/ncsx) | BMW NCS Expert in the browser | Factory coding tool ported to TypeScript — no installer, no Wine needed |
-| [**nfsx**](https://github.com/emdzej/nfsx) | NFS / WinKFP + JMG Flasher + MS4x Flasher in one tool | Flash what you need on any platform you want |
-| [**tunex**](https://github.com/emdzej/tunex) | ECU firmware editor with TunerPro's XDF support in your browser | For a comlete flashing experience |
-| [**xbusx**](https://github.com/emdzej/xbusx) | BMW I-Bus / K-Bus protocol + tools | Reference implementation for in-vehicle comms (E31–E87) |
-| [**npvm**](https://github.com/emdzej/npvm) | Monorepo versioning CLI | Semantic versioning across 47 packages shouldn't require a PhD |
-| [**stm**](https://github.com/emdzej/stm) | Serial Terminal & Monitor | My way, because every other way doesn't suite me |
+| [**j2534**](https://github.com/emdzej/j2534) | TypeScript SAE J2534 PassThru API (Node + WebUSB) 🚧 | Cross-platform replacement for Windows-only DLLs |
 
 ## Fun Facts
 
