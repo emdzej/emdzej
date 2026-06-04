@@ -29,6 +29,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**tunex**](https://github.com/emdzej/tunex) | ECU firmware editor with TunerPro's XDF support in your browser | For a comlete flashing experience |
 | [**xbusx**](https://github.com/emdzej/xbusx) | BMW I-Bus / K-Bus protocol + tools | Reference implementation for in-vehicle comms (E31–E87) |
 | [**npvm**](https://github.com/emdzej/npvm) | Monorepo versioning CLI | Semantic versioning across 47 packages shouldn't require a PhD |
+| [**stm**](https://github.com/emdzej/stm) | Serial Terminal & Monitor | My way, because every other way doesn't suite me |
 
 ## Fun Facts
 
