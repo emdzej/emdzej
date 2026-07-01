@@ -10,6 +10,8 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 
 ### Complete Solutions
 
+#### Bimmerz Suite
+
 | Project | What it does | Why it exists |
 |---------|--------------|---------------|
 | [**ediabasx**](https://github.com/emdzej/ediabasx) | BMW diagnostic interface — TypeScript port 🚧 | The VM runs. Everything else is "coming soon." |
@@ -30,6 +32,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**swsrs**](https://github.com/emdzej/swsrs) | Self-hostable WebSocket relay for peers behind NAT/firewalls + OIDC-protected admin plane | Because "just open a port" stops being funny behind CGNAT |
 | [**npvm**](https://github.com/emdzej/npvm) | Monorepo versioning CLI | Semantic versioning across 47 packages shouldn't require a PhD |
 | [**stm**](https://github.com/emdzej/stm) | Serial Terminal & Monitor on the web | My way, anywhere |
+| [**bass**](https://github.com/emdzej/bass) | Self hosted service + library for synchronising backendless web apps | Not every app needs backend, and I like switching devices |
 
 ### AI & LM
 
