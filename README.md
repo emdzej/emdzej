@@ -14,7 +14,9 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 
 | Project | What it does | Why it exists |
 |---------|--------------|---------------|
+| [**bimmerz-box**](https://github.com/emdzej/bimmerz-box) | Bimmerz Suite ina Box | Plug it in connect via phone or tablet and enjoy |
 | [**ediabasx**](https://github.com/emdzej/ediabasx) | BMW diagnostic interface — TypeScript port 🚧 | The VM runs. Everything else is "coming soon." |
+| [**ediabasx-embedded**](https://github.com/emdzej/ediabasx-embedded) | BMW diagnostic interface — TypeScript port 🚧 | The VM runs. Everything else is "coming soon." |
 | [**inpax**](https://github.com/emdzej/inpax) | INPA scripting — cross-platform 🚧 | Not everyone likes Windows. Even in the garage. |
 | [**ncsx**](https://github.com/emdzej/ncsx) | BMW NCS Expert in the browser | Factory coding tool ported to TypeScript — no installer, no Wine needed |
 | [**nfsx**](https://github.com/emdzej/nfsx) | NFS / WinKFP + JMG Flasher + MS4x Flasher in one tool | Flash what you need on any platform you want |
@@ -22,6 +24,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**etkx**](https://github.com/emdzej/etkx) | BMW Electronic Parts Catalogue — reverse engineered | Because PDF parts lists are for quitters |
 | [**tunex**](https://github.com/emdzej/tunex) | ECU firmware editor with TunerPro's XDF support in your browser | For a comlete flashing experience |
 | [**xbusx**](https://github.com/emdzej/xbusx) | BMW I-Bus / K-Bus protocol + tools | Reference implementation for in-vehicle comms (E31–E87) |
+| [**dashx**](https://github.com/emdzej/dashx) | BMW CAN Dashboard | What you really need is just your phone (and BimmerzBox) |
 | [**tisx**](https://github.com/emdzej/tisx) | BMW TIS reimplementation | Workshop manuals without dusting off Windows XP |
 | [**mitsudocs**](https://github.com/emdzej/mitsudocs) | Mitsubishi service manual viewer + AI-powered indexing | Local vision models doing OCR on scanned wiring diagrams |
 
