@@ -37,6 +37,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**stm**](https://github.com/emdzej/stm) | Serial Terminal & Monitor on the web | My way, anywhere |
 | [**bass**](https://github.com/emdzej/bass) | Self hosted service + library for synchronising backendless web apps | Not every app needs backend, and I like switching devices |
 | [**avrdudeui**](https://github.com/emdzej/avrdudeui) | UI for avrdude CLI | Because AVRDUDESS was not updated in a while |
+| [**airlock**](https://github.com/emdzej/airlock) | RPi based network mass storage reader | If your laptop has USB mass storage disabled or you don't want plugging in unknown storage devices directly |
 
 ### AI & LM
 
