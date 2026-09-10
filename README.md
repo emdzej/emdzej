@@ -93,7 +93,3 @@ If you find my work useful, consider [buying me a coffee](https://buymeacoffee.c
 
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/PL/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=TDBR3A97PLQRQ&no_recurring=0&item_name=%28emdzej%29&currency_code=PLN)
 
-
----
-
-*"It works on my machine"* — certified since 2003
