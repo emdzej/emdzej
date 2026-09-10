@@ -26,6 +26,15 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**xbusx**](https://github.com/emdzej/xbusx) | BMW I-Bus / K-Bus protocol + tools | Reference implementation for in-vehicle comms (E31–E87) |
 | [**dashx**](https://github.com/emdzej/dashx) | BMW CAN Dashboard | What you really need is just your phone (and BimmerzBox) |
 | [**tisx**](https://github.com/emdzej/tisx) | BMW TIS reimplementation | Workshop manuals without dusting off Windows XP |
+
+#### Other Marques
+
+| Project | What it does | Why it exists |
+|---------|--------------|---------------|
+| [**ddtx**](https://github.com/emdzej/ddtx) | Renault / Dacia / Nissan ECU diagnostics in the browser — [ddtx.emdzej.pl](https://ddtx.emdzej.pl) | A DDT4All port that reads a real vehicle over K-line. Turns out browser latency is noise next to an ECU. |
+| [**dialogysx**](https://github.com/emdzej/dialogysx) | Renault / Dacia parts catalogue **and** repair documentation — [dialogysx.emdzej.pl](https://dialogysx.emdzej.pl) | Dialogys 7.5.6, reverse engineered. 576,034 index keys, 0 failures, no backend. |
+| [**eperx**](https://github.com/emdzej/eperx) | Fiat, Lancia, Alfa Romeo, Abarth, Chrysler parts catalogue — [eperx.emdzej.pl](https://eperx.emdzej.pl) | ePER 8.3 without the Java installer. VIN in, exact factory build out. |
+| [**masax**](https://github.com/emdzej/masax) | Mitsubishi After Sales parts catalogue — [masax.emdzej.pl](https://masax.emdzej.pl) | 9,495,097 records decoded exactly and all 17,977 drawings de-obfuscated. The discs still work; the application doesn't. |
 | [**mitsudocs**](https://github.com/emdzej/mitsudocs) | Mitsubishi service manual viewer + AI-powered indexing | Local vision models doing OCR on scanned wiring diagrams |
 
 ### Tools
@@ -37,7 +46,8 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**stm**](https://github.com/emdzej/stm) | Serial Terminal & Monitor on the web | My way, anywhere |
 | [**bass**](https://github.com/emdzej/bass) | Self hosted service + library for synchronising backendless web apps | Not every app needs backend, and I like switching devices |
 | [**avrdudeui**](https://github.com/emdzej/avrdudeui) | UI for avrdude CLI | Because AVRDUDESS was not updated in a while |
-| [**airlock**](https://github.com/emdzej/airlock) | RPi based network mass storage reader | If your laptop has USB mass storage disabled or you don't want plugging in unknown storage devices directly |
+| [**airlock**](https://github.com/emdzej/airlock) | Raspberry Pi network card-reader appliance — SMB, web UI, and a macOS menubar companion | Someone else's thumb drive plugs into a $50 Pi mounted `noexec`, not into the machine you actually work on |
+| [**spinup**](https://github.com/emdzej/spinup) | Cloud-functions platform for Spin WebAssembly components on Kubernetes — [spinup.emdzej.pl](https://spinup.emdzej.pl) | Write Go / Rust / TS in the browser, hit Build & Deploy, get an HTTP endpoint. Lambda without the vendor. |
 
 ### AI & LM
 
@@ -54,6 +64,8 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**config**](https://github.com/emdzej/config) | Runtime config service for SPAs (build once, run everywhere) | Env/secret‑driven config without rebuilds |
 | [**itw-decoder**](https://github.com/emdzej/itw-decoder) | BMW ITW image format decoder | Because things should be accessible and live forever |
 | [**j2534**](https://github.com/emdzej/j2534) | TypeScript SAE J2534 PassThru API (Node + WebUSB) 🚧 | Cross-platform replacement for Windows-only DLLs |
+| [**csfs**](https://github.com/emdzej/csfs) | One read API over anything a browser can reach: static HTTP, a picked folder, OPFS — or a zip inside any of them — [csfs.emdzej.pl](https://csfs.emdzej.pl) | Reading *part* of a remote file is what makes 15 GB of catalogue data usable at all |
+| [**elmo**](https://github.com/emdzej/elmo) | Schematics as code — a text DSL that renders circuits as SVG — [elmo.emdzej.pl](https://elmo.emdzej.pl) | Mermaid and PlantUML for electronics. ~45 symbols, markdown-it / remark / CLI / browser. |
 
 ## Fun Facts
 
