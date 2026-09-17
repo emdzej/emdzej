@@ -46,6 +46,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**stm**](https://github.com/emdzej/stm) | Serial Terminal & Monitor on the web | My way, anywhere |
 | [**bass**](https://github.com/emdzej/bass) | Self hosted service + library for synchronising backendless web apps | Not every app needs backend, and I like switching devices |
 | [**avrdudeui**](https://github.com/emdzej/avrdudeui) | UI for avrdude CLI | Because AVRDUDESS was not updated in a while |
+| [**bleach**](https://github.com/emdzej/bleach) | macOS cleanup that explains itself — [bleach.emdzej.pl](https://bleach.emdzej.pl) | 128 GB of `~/Library` belonged to apps I uninstalled years ago. Nothing on disk says which. |
 | [**airlock**](https://github.com/emdzej/airlock) | Raspberry Pi network card-reader appliance — SMB, web UI, and a macOS menubar companion | Someone else's thumb drive plugs into a $50 Pi mounted `noexec`, not into the machine you actually work on |
 | [**spinup**](https://github.com/emdzej/spinup) | Cloud-functions platform for Spin WebAssembly components on Kubernetes — [spinup.emdzej.pl](https://spinup.emdzej.pl) | Write Go / Rust / TS in the browser, hit Build & Deploy, get an HTTP endpoint. Lambda without the vendor. |
 
