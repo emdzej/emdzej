@@ -51,6 +51,12 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**spinup**](https://github.com/emdzej/spinup) | Cloud-functions platform for Spin WebAssembly components on Kubernetes — [spinup.emdzej.pl](https://spinup.emdzej.pl) | Write Go / Rust / TS in the browser, hit Build & Deploy, get an HTTP endpoint. Lambda without the vendor. |
 | [**gasm**](https://github.com/emdzej/gasm) | Portable games on WebAssembly: one `.wasm`, native and browser runners, WebGPU, lockstep netplay. [gasm.emdzej.pl](https://gasm.emdzej.pl) | A NES emulator and a 3D sumo game run bit-identically on a Mac, in a browser and on Windows. Write the game once, port the runner instead. |
 
+### Games
+
+| Project | What it does | Why it exists |
+|---------|--------------|---------------|
+| [**openrf**](https://github.com/emdzej/openrf) | Return Fire (1996) reimplemented natively from the original executable — [openrf.emdzej.pl](https://openrf.emdzej.pl) | The CD still reads. Windows 95 doesn't. Bring the disc; the game, its movies and the orchestral score come from it. |
+
 ### AI & LM
 
 | Project | What it does | Why it exists |
