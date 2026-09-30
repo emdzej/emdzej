@@ -49,6 +49,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**bleach**](https://github.com/emdzej/bleach) | macOS cleanup that explains itself — [bleach.emdzej.pl](https://bleach.emdzej.pl) | 128 GB of `~/Library` belonged to apps I uninstalled years ago. Nothing on disk says which. |
 | [**airlock**](https://github.com/emdzej/airlock) | Raspberry Pi network card-reader appliance — SMB, web UI, and a macOS menubar companion | Someone else's thumb drive plugs into a $50 Pi mounted `noexec`, not into the machine you actually work on |
 | [**spinup**](https://github.com/emdzej/spinup) | Cloud-functions platform for Spin WebAssembly components on Kubernetes — [spinup.emdzej.pl](https://spinup.emdzej.pl) | Write Go / Rust / TS in the browser, hit Build & Deploy, get an HTTP endpoint. Lambda without the vendor. |
+| [**gasm**](https://github.com/emdzej/gasm) | Portable games on WebAssembly: one `.wasm`, native and browser runners, WebGPU, lockstep netplay. [gasm.emdzej.pl](https://gasm.emdzej.pl) | A NES emulator and a 3D sumo game run bit-identically on a Mac, in a browser and on Windows. Write the game once, port the runner instead. |
 
 ### AI & LM
 
