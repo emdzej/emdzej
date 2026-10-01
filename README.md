@@ -56,6 +56,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | Project | What it does | Why it exists |
 |---------|--------------|---------------|
 | [**openrf**](https://github.com/emdzej/openrf) | Return Fire (1996) reimplemented natively from the original executable — [openrf.emdzej.pl](https://openrf.emdzej.pl) | The CD still reads. Windows 95 doesn't. Bring the disc; the game, its movies and the orchestral score come from it. |
+| [**openballance**](https://github.com/emdzej/openballance) | Ballance (2004): the original Virtools scripts on a new runtime, with a port of its Ipion physics engine — [openballance.emdzej.pl](https://openballance.emdzej.pl) | The game *is* the ball's feel, so the physics engine was read out of `physics_RT.dll` instead of guessed. Bring the CD; it runs in a browser too. |
 
 ### AI & LM
 
