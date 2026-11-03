@@ -53,7 +53,6 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**airlock**](https://github.com/emdzej/airlock) | Raspberry Pi network card-reader appliance — SMB, web UI, and a macOS menubar companion | Someone else's thumb drive plugs into a $50 Pi mounted `noexec`, not into the machine you actually work on |
 | [**spinup**](https://github.com/emdzej/spinup) | Cloud-functions platform for Spin WebAssembly components on Kubernetes — [spinup.emdzej.pl](https://spinup.emdzej.pl) | Write Go / Rust / TS in the browser, hit Build & Deploy, get an HTTP endpoint. Lambda without the vendor. |
 | [**gasm**](https://github.com/emdzej/gasm) | Portable games on WebAssembly: one `.wasm`, native and browser runners, WebGPU, lockstep netplay. [gasm.emdzej.pl](https://gasm.emdzej.pl) | A NES emulator and a 3D sumo game run bit-identically on a Mac, in a browser and on Windows. Write the game once, port the runner instead. |
-| [**acc**](https://github.com/emdzej/acc) | Agents Control Centre — watch, organise and message your coding-agent sessions — [acc.emdzej.pl](https://acc.emdzej.pl) | Six terminals of Claude Code and Codex, and one of them has been waiting for me for twenty minutes |
 | [**notesmyway**](https://github.com/emdzej/notesmyway) | Apple Notes on the outside, a folder of Markdown on the inside — Mac, iPhone, iPad — [notesmyway.emdzej.pl](https://notesmyway.emdzej.pl) | My notes should outlive the app I write them in |
 | [**visextract**](https://github.com/emdzej/visextract) | Unpacks MindVision Installer VISE archives — no installer, no Wine, every file CRC-checked | The game was on the CD. Inside an installer nothing else could open. |
 | [**opencluster**](https://github.com/emdzej/opencluster) | Open-source car instrument cluster on ESP32 and LVGL — skinnable gauges, CAN native | The cluster is just a screen that reads CAN. So is a $10 ESP32. |
@@ -80,8 +79,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**microagent**](https://github.com/emdzej/microagent) | Minimal AI agent with tools + MCP in ~1500 LOC | Reference implementation for "how do agents actually work?" |
 | [**microagent-rust**](https://github.com/emdzej/microagent-rust) | microagent in Rust — same loop, tools and MCP client, interoperable | Same agent, very different constraints |
 | [**ragclaw**](https://github.com/emdzej/ragclaw) | Local-first RAG engine with SQLite vector search | Because sometimes you want AI to know things without sending your secrets to the cloud |
-| [**platform-assistant**](https://github.com/emdzej/platform-assistant) | AI platform assistant for Kubernetes — OpenCode with MCP servers for cluster ops, ArgoCD and RAG | Asking the cluster beats grepping the runbook |
-| [**openclaw-skills**](https://github.com/emdzej/openclaw-skills) | Skills for OpenClaw agents — kubectl and friends | An agent is only as useful as the tools you hand it |
+| [**acc**](https://github.com/emdzej/acc) | Agents Control Centre — watch, organise and message your coding-agent sessions — [acc.emdzej.pl](https://acc.emdzej.pl) | Six terminals of Claude Code and Codex, and one of them has been waiting for me for twenty minutes |
 
 ### Libraries, Extensions & Plugins
 
@@ -94,7 +92,6 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**csfs**](https://github.com/emdzej/csfs) | One read API over anything a browser can reach: static HTTP, a picked folder, OPFS — or a zip inside any of them — [csfs.emdzej.pl](https://csfs.emdzej.pl) | Reading *part* of a remote file is what makes 15 GB of catalogue data usable at all |
 | [**elmo**](https://github.com/emdzej/elmo) | Schematics as code — a text DSL that renders circuits as SVG — [elmo.emdzej.pl](https://elmo.emdzej.pl) | Mermaid and PlantUML for electronics. ~45 symbols, markdown-it / remark / CLI / browser. |
 | [**markdownkit**](https://github.com/emdzej/markdownkit) | Native Markdown editor for macOS and iOS on TextKit 2 — blend editing, tables with formulas | The editor behind Notes my Way, as a Swift package |
-| [**ui-kit**](https://github.com/emdzej/ui-kit) | Shared Svelte 5 UI toolkit — semantic theming, headless primitives, components | Same buttons in every app, written once |
 | [**vitepress-plugin-markdownformula**](https://github.com/emdzej/vitepress-plugin-markdownformula) | Excel-like formulas in VitePress markdown tables, evaluated at build time | Totals that add up without a spreadsheet next to the docs |
 | [**wasm-plugins-examples**](https://github.com/emdzej/wasm-plugins-examples) | Untrusted image-filter plugins sandboxed in WebAssembly, hosted by Svelte — [demo](https://emdzej.github.io/wasm-plugins-examples/) | Plugins you can run without trusting whoever wrote them |
 
