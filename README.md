@@ -26,6 +26,9 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**xbusx**](https://github.com/emdzej/xbusx) | BMW I-Bus / K-Bus protocol + tools | Reference implementation for in-vehicle comms (E31–E87) |
 | [**dashx**](https://github.com/emdzej/dashx) | BMW CAN Dashboard | What you really need is just your phone (and BimmerzBox) |
 | [**tisx**](https://github.com/emdzej/tisx) | BMW TIS reimplementation | Workshop manuals without dusting off Windows XP |
+| [**bimmerz-core**](https://github.com/emdzej/bimmerz-core) | Shared workspace for the suite — Svelte components, theme tokens, loggers, utilities | Seven apps, one look. Copy-paste stopped scaling around app three. |
+| [**ncsx-community-patches**](https://github.com/emdzej/ncsx-community-patches) | Community coding patches for ncsx — FSW/PSW changes as small YAML files | Retrofits and tweaks someone already figured out, shared instead of rediscovered |
+| [**ipo-community-patches**](https://github.com/emdzej/ipo-community-patches) | Community patches for INPA `.IPO` scripts — translations, labels, thresholds | German-only diagnostics are a feature only for Germans |
 
 #### Other Marques
 
@@ -50,6 +53,11 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**airlock**](https://github.com/emdzej/airlock) | Raspberry Pi network card-reader appliance — SMB, web UI, and a macOS menubar companion | Someone else's thumb drive plugs into a $50 Pi mounted `noexec`, not into the machine you actually work on |
 | [**spinup**](https://github.com/emdzej/spinup) | Cloud-functions platform for Spin WebAssembly components on Kubernetes — [spinup.emdzej.pl](https://spinup.emdzej.pl) | Write Go / Rust / TS in the browser, hit Build & Deploy, get an HTTP endpoint. Lambda without the vendor. |
 | [**gasm**](https://github.com/emdzej/gasm) | Portable games on WebAssembly: one `.wasm`, native and browser runners, WebGPU, lockstep netplay. [gasm.emdzej.pl](https://gasm.emdzej.pl) | A NES emulator and a 3D sumo game run bit-identically on a Mac, in a browser and on Windows. Write the game once, port the runner instead. |
+| [**acc**](https://github.com/emdzej/acc) | Agents Control Centre — watch, organise and message your coding-agent sessions — [acc.emdzej.pl](https://acc.emdzej.pl) | Six terminals of Claude Code and Codex, and one of them has been waiting for me for twenty minutes |
+| [**notesmyway**](https://github.com/emdzej/notesmyway) | Apple Notes on the outside, a folder of Markdown on the inside — Mac, iPhone, iPad — [notesmyway.emdzej.pl](https://notesmyway.emdzej.pl) | My notes should outlive the app I write them in |
+| [**visextract**](https://github.com/emdzej/visextract) | Unpacks MindVision Installer VISE archives — no installer, no Wine, every file CRC-checked | The game was on the CD. Inside an installer nothing else could open. |
+| [**opencluster**](https://github.com/emdzej/opencluster) | Open-source car instrument cluster on ESP32 and LVGL — skinnable gauges, CAN native | The cluster is just a screen that reads CAN. So is a $10 ESP32. |
+| [**anycard**](https://github.com/emdzej/anycard) | iOS app for adding any loyalty card to Apple Wallet | My wallet was thicker than my phone |
 
 ### Games
 
@@ -58,13 +66,22 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**openrf**](https://github.com/emdzej/openrf) | Return Fire (1996) reimplemented natively from the original executable — [openrf.emdzej.pl](https://openrf.emdzej.pl) | The CD still reads. Windows 95 doesn't. Bring the disc; the game, its movies and the orchestral score come from it. |
 | [**openballance**](https://github.com/emdzej/openballance) | Ballance (2004): the original Virtools scripts on a new runtime, with a port of its Ipion physics engine — [openballance.emdzej.pl](https://openballance.emdzej.pl) | The game *is* the ball's feel, so the physics engine was read out of `physics_RT.dll` instead of guessed. Bring the CD; it runs in a browser too. |
 | [**opengta**](https://github.com/emdzej/opengta) | Grand Theft Auto (1997) reimplemented from the original Windows executable — [opengta.emdzej.pl](https://opengta.emdzej.pl) | Point it at the unzipped 2002 installer; it doesn't even need to run. 23.33 frames a second, because that's what the sound timer says. |
+| [**opensheep**](https://github.com/emdzej/opensheep) | Sheep (2000) reimplemented from the original Windows executable — [opensheep.emdzej.pl](https://opensheep.emdzej.pl) | You don't lead the flock, you stand in the right place. DirectDraw, on the other hand, just stopped standing. |
+| [**openbv**](https://github.com/emdzej/openbv) | Babo Violent 2 on gasm — the original GPL source, native and in the browser — [openbv.emdzej.pl](https://openbv.emdzej.pl) | Little balls with guns. The source was published in 2012; it deserved a runtime that still exists. |
+| [**opennfspu**](https://github.com/emdzej/opennfspu) | Need for Speed: Porsche Unleashed (2000) reimplemented in C11 for gasm 🚧 | Single player is back from the menus through the races. Bring your own copy. |
+| [**opencmr2**](https://github.com/emdzej/opencmr2) | Colin McRae Rally 2.0 (2000) reimplemented from `CMR2.exe` for gasm 🚧 — [opencmr2.emdzej.pl](https://opencmr2.emdzej.pl) | Every asset on the disc decodes. Driving comes later. |
+| [**openoni**](https://github.com/emdzej/openoni) | Oni (2001) reimplemented for gasm 🚧 | Early days: the files are off the CD, the engine is next |
+| [**nowhereinparticular-releases**](https://github.com/emdzej/nowhereinparticular-releases) | Nowhere in Particular — a calm exploration game in real places built from real-world data — [nowhereinparticular.emdzej.pl](https://nowhereinparticular.emdzej.pl) | Not every game needs a goal. Some need a lake in Głowno on a sunny afternoon. |
 
 ### AI & LM
 
 | Project | What it does | Why it exists |
 |---------|--------------|---------------|
 | [**microagent**](https://github.com/emdzej/microagent) | Minimal AI agent with tools + MCP in ~1500 LOC | Reference implementation for "how do agents actually work?" |
+| [**microagent-rust**](https://github.com/emdzej/microagent-rust) | microagent in Rust — same loop, tools and MCP client, interoperable | Same agent, very different constraints |
 | [**ragclaw**](https://github.com/emdzej/ragclaw) | Local-first RAG engine with SQLite vector search | Because sometimes you want AI to know things without sending your secrets to the cloud |
+| [**platform-assistant**](https://github.com/emdzej/platform-assistant) | AI platform assistant for Kubernetes — OpenCode with MCP servers for cluster ops, ArgoCD and RAG | Asking the cluster beats grepping the runbook |
+| [**openclaw-skills**](https://github.com/emdzej/openclaw-skills) | Skills for OpenClaw agents — kubectl and friends | An agent is only as useful as the tools you hand it |
 
 ### Libraries, Extensions & Plugins
 
@@ -76,6 +93,18 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**j2534**](https://github.com/emdzej/j2534) | TypeScript SAE J2534 PassThru API (Node + WebUSB) 🚧 | Cross-platform replacement for Windows-only DLLs |
 | [**csfs**](https://github.com/emdzej/csfs) | One read API over anything a browser can reach: static HTTP, a picked folder, OPFS — or a zip inside any of them — [csfs.emdzej.pl](https://csfs.emdzej.pl) | Reading *part* of a remote file is what makes 15 GB of catalogue data usable at all |
 | [**elmo**](https://github.com/emdzej/elmo) | Schematics as code — a text DSL that renders circuits as SVG — [elmo.emdzej.pl](https://elmo.emdzej.pl) | Mermaid and PlantUML for electronics. ~45 symbols, markdown-it / remark / CLI / browser. |
+| [**markdownkit**](https://github.com/emdzej/markdownkit) | Native Markdown editor for macOS and iOS on TextKit 2 — blend editing, tables with formulas | The editor behind Notes my Way, as a Swift package |
+| [**ui-kit**](https://github.com/emdzej/ui-kit) | Shared Svelte 5 UI toolkit — semantic theming, headless primitives, components | Same buttons in every app, written once |
+| [**vitepress-plugin-markdownformula**](https://github.com/emdzej/vitepress-plugin-markdownformula) | Excel-like formulas in VitePress markdown tables, evaluated at build time | Totals that add up without a spreadsheet next to the docs |
+| [**wasm-plugins-examples**](https://github.com/emdzej/wasm-plugins-examples) | Untrusted image-filter plugins sandboxed in WebAssembly, hosted by Svelte — [demo](https://emdzej.github.io/wasm-plugins-examples/) | Plugins you can run without trusting whoever wrote them |
+
+### Documentation
+
+| Project | What it does | Why it exists |
+|---------|--------------|---------------|
+| [**apple-container-guide**](https://github.com/emdzej/apple-container-guide) | Migrating from Docker Desktop to Apple's container runtime — scripts and measured behaviour | README claims are not measurements |
+| [**ediabasx-docs**](https://github.com/emdzej/ediabasx-docs) | EdiabasX documentation | The VM runs; now it has a manual |
+| [**ediabasx-docs-sgbd**](https://github.com/emdzej/ediabasx-docs-sgbd) | SGBD reference — 2,400+ files | Somebody had to read them all |
 
 ## Fun Facts
 
