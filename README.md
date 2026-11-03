@@ -79,7 +79,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**microagent**](https://github.com/emdzej/microagent) | Minimal AI agent with tools + MCP in ~1500 LOC | Reference implementation for "how do agents actually work?" |
 | [**microagent-rust**](https://github.com/emdzej/microagent-rust) | microagent in Rust — same loop, tools and MCP client, interoperable | Same agent, very different constraints |
 | [**ragclaw**](https://github.com/emdzej/ragclaw) | Local-first RAG engine with SQLite vector search | Because sometimes you want AI to know things without sending your secrets to the cloud |
-| [**acc**](https://github.com/emdzej/acc) | Agents Control Centre — watch, organise and message your coding-agent sessions — [acc.emdzej.pl](https://acc.emdzej.pl) | Six terminals of Claude Code and Codex, and one of them has been waiting for me for twenty minutes |
+| [**acc**](https://github.com/emdzej/acc) | Agents Control Centre — watch, organise and interact with your coding-agent sessions — [acc.emdzej.pl](https://acc.emdzej.pl) | Six terminals of Claude Code and Codex, and one of them has been waiting for me for twenty minutes |
 
 ### Libraries, Extensions & Plugins
 
