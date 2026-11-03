@@ -121,6 +121,7 @@ These projects exist to preserve access to technical knowledge and ensure that o
 ## Get In Touch
 
 - 🌐 [emdzej.pl](https://emdzej.pl)
+- 💬 [Discord](https://discord.gg/PKzDpbeKP)
 - 📧 michal@jaskolski.pro
 
 ## Support
