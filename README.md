@@ -55,6 +55,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**gasm**](https://github.com/emdzej/gasm) | Portable games on WebAssembly: one `.wasm`, native and browser runners, WebGPU, lockstep netplay. [gasm.emdzej.pl](https://gasm.emdzej.pl) | A NES emulator and a 3D sumo game run bit-identically on a Mac, in a browser and on Windows. Write the game once, port the runner instead. |
 | [**notesmyway**](https://github.com/emdzej/notesmyway) | Apple Notes on the outside, a folder of Markdown on the inside — Mac, iPhone, iPad — [notesmyway.emdzej.pl](https://notesmyway.emdzej.pl) | My notes should outlive the app I write them in |
 | [**visextract**](https://github.com/emdzej/visextract) | Unpacks MindVision Installer VISE archives — no installer, no Wine, every file CRC-checked | The game was on the CD. Inside an installer nothing else could open. |
+| [**kcctl**](https://github.com/emdzej/keycloak-cli) | Keycloak admin CLI in one binary — names instead of UUIDs, browser sign-in, live completion, Keycloak 26.6.3+ | kcadm needs a JVM and a 166 MB download, and my admin account has no password to give it |
 | [**opencluster**](https://github.com/emdzej/opencluster) | Open-source car instrument cluster on ESP32 and LVGL — skinnable gauges, CAN native | The cluster is just a screen that reads CAN. So is a $10 ESP32. |
 | [**anycard**](https://github.com/emdzej/anycard) | iOS app for adding any loyalty card to Apple Wallet | My wallet was thicker than my phone |
 
