@@ -56,6 +56,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**notesmyway**](https://github.com/emdzej/notesmyway) | Apple Notes on the outside, a folder of Markdown on the inside — Mac, iPhone, iPad — [notesmyway.emdzej.pl](https://notesmyway.emdzej.pl) | My notes should outlive the app I write them in |
 | [**visextract**](https://github.com/emdzej/visextract) | Unpacks MindVision Installer VISE archives — no installer, no Wine, every file CRC-checked | The game was on the CD. Inside an installer nothing else could open. |
 | [**kcctl**](https://github.com/emdzej/kcctl) | Keycloak admin CLI in one binary — names instead of UUIDs, browser sign-in, live completion, Keycloak 26.6.3+ | kcadm needs a JVM and a 166 MB download, and my admin account has no password to give it |
+| [**beigebox**](https://github.com/emdzej/beigebox) | A 1996 PC on a desk in the browser — v86 on the monitor's glass, floppies from the box, hard drives from the drawer — [beigebox.emdzej.pl](https://beigebox.emdzej.pl) | A browser emulator should have a power button you can actually press |
 | [**opencluster**](https://github.com/emdzej/opencluster) | Open-source car instrument cluster on ESP32 and LVGL — skinnable gauges, CAN native | The cluster is just a screen that reads CAN. So is a $10 ESP32. |
 | [**anycard**](https://github.com/emdzej/anycard) | iOS app for adding any loyalty card to Apple Wallet | My wallet was thicker than my phone |
 
