@@ -25,6 +25,7 @@ Based in Łódź, Poland 🇵🇱 — yes, that's pronounced "Woodge." No, I can
 | [**tunex**](https://github.com/emdzej/tunex) | ECU firmware editor with TunerPro's XDF support in your browser | For a comlete flashing experience |
 | [**xbusx**](https://github.com/emdzej/xbusx) | BMW I-Bus / K-Bus protocol + tools | Reference implementation for in-vehicle comms (E31–E87) |
 | [**dashx**](https://github.com/emdzej/dashx) | BMW CAN Dashboard | What you really need is just your phone (and BimmerzBox) |
+| [**navx**](https://github.com/emdzej/navx) | BMW MK4 navigation tools — colours, images, voices from the V32 CD, an emulator that boots it in the browser — [navx.bimmerz.app](https://navx.bimmerz.app) | NavTweak is from 2006 and I wanted to see the screen before burning the disc |
 | [**tisx**](https://github.com/emdzej/tisx) | BMW TIS reimplementation | Workshop manuals without dusting off Windows XP |
 | [**bimmerz-core**](https://github.com/emdzej/bimmerz-core) | Shared workspace for the suite — Svelte components, theme tokens, loggers, utilities | Seven apps, one look. Copy-paste stopped scaling around app three. |
 | [**ncsx-community-patches**](https://github.com/emdzej/ncsx-community-patches) | Community coding patches for ncsx — FSW/PSW changes as small YAML files | Retrofits and tweaks someone already figured out, shared instead of rediscovered |
